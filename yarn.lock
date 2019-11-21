@@ -5673,6 +5673,38 @@ pouchdb-adapter-http@7.1.1:
     pouchdb-fetch "7.1.1"
     pouchdb-utils "7.1.1"
 
+pouchdb-adapter-react-native-sqlite@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.npmjs.org/pouchdb-adapter-react-native-sqlite/-/pouchdb-adapter-react-native-sqlite-2.0.0.tgz#ba65f710be10c447427c586869945bdd0458cd5c"
+  integrity sha512-7lQ0l5phU53bmjQfMP6HrE7d08TRs5OIPe+ILe2zdDJy2i1f4XY9TeaDbi5TokD3GrfRB1B6C41f3dsi0cghsw==
+  dependencies:
+    pouchdb-adapter-websql-core "7.0.0"
+
+pouchdb-adapter-utils@7.0.0:
+  version "7.0.0"
+  resolved "https://registry.npmjs.org/pouchdb-adapter-utils/-/pouchdb-adapter-utils-7.0.0.tgz#1ac8d34481911e0e9a9bf51024610a2e7351dc80"
+  integrity sha512-UWKPC6jkz6mHUzZefrU7P5X8ZGvBC8LSNZ7BIp0hWvJE6c20cnpDwedTVDpZORcCbVJpDmFOHBYnOqEIblPtbA==
+  dependencies:
+    pouchdb-binary-utils "7.0.0"
+    pouchdb-collections "7.0.0"
+    pouchdb-errors "7.0.0"
+    pouchdb-md5 "7.0.0"
+    pouchdb-merge "7.0.0"
+    pouchdb-utils "7.0.0"
+
+pouchdb-adapter-websql-core@7.0.0:
+  version "7.0.0"
+  resolved "https://registry.npmjs.org/pouchdb-adapter-websql-core/-/pouchdb-adapter-websql-core-7.0.0.tgz#27b3e404159538e515b2567baa7869f90caac16c"
+  integrity sha512-NyMaH0bl20SdJdOCzd+fwXo8JZ15a48/MAwMcIbXzsRHE4DjFNlRcWAcjUP6uN4Ezc+Gx+r2tkBBMf71mIz1Aw==
+  dependencies:
+    pouchdb-adapter-utils "7.0.0"
+    pouchdb-binary-utils "7.0.0"
+    pouchdb-collections "7.0.0"
+    pouchdb-errors "7.0.0"
+    pouchdb-json "7.0.0"
+    pouchdb-merge "7.0.0"
+    pouchdb-utils "7.0.0"
+
 pouchdb-all-dbs@1.0.2:
   version "1.0.2"
   resolved "https://registry.npmjs.org/pouchdb-all-dbs/-/pouchdb-all-dbs-1.0.2.tgz#8fa1aa4b01665e00e0da9c61bf6dbb99eca05d3c"
@@ -5805,6 +5837,13 @@ pouchdb-generate-replication-id@7.1.1:
     pouchdb-collate "7.1.1"
     pouchdb-md5 "7.1.1"
 
+pouchdb-json@7.0.0:
+  version "7.0.0"
+  resolved "https://registry.npmjs.org/pouchdb-json/-/pouchdb-json-7.0.0.tgz#d9860f66f27a359ac6e4b24da4f89b6909f37530"
+  integrity sha512-w0bNRu/7VmmCrFWMYAm62n30wvJJUT2SokyzeTyj3hRohj4GFwTRg1mSZ+iAmxgRKOFE8nzZstLG/WAB4Ymjew==
+  dependencies:
+    vuvuzela "1.0.3"
+
 pouchdb-mapreduce-utils@7.0.0:
   version "7.0.0"
   resolved "https://registry.npmjs.org/pouchdb-mapreduce-utils/-/pouchdb-mapreduce-utils-7.0.0.tgz#ff342e9d515d4c9cf0b19ad85c78f10f2568493b"
@@ -5830,6 +5869,11 @@ pouchdb-md5@7.1.1:
   dependencies:
     pouchdb-binary-utils "7.1.1"
     spark-md5 "3.0.0"
+
+pouchdb-merge@7.0.0:
+  version "7.0.0"
+  resolved "https://registry.npmjs.org/pouchdb-merge/-/pouchdb-merge-7.0.0.tgz#9f476ce7e32aae56904ad770ae8a1dfe14b57547"
+  integrity sha512-tci5u6NpznQhGcPv4ho1h0miky9rs+ds/T9zQ9meQeDZbUojXNaX1Jxsb0uYEQQ+HMqdcQs3Akdl0/u0mgwPGg==
 
 pouchdb-merge@7.1.1:
   version "7.1.1"
@@ -7826,6 +7870,11 @@ vm-browserify@^1.0.1:
   version "1.1.0"
   resolved "https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.1.0.tgz#bd76d6a23323e2ca8ffa12028dc04559c75f9019"
   integrity sha512-iq+S7vZJE60yejDYM0ek6zg308+UZsdtPExWP9VZoCFCz1zkJoXFnAX7aZfd/ZwrkidzdUZL0C/ryW+JwAiIGw==
+
+vuvuzela@1.0.3:
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/vuvuzela/-/vuvuzela-1.0.3.tgz#3be145e58271c73ca55279dd851f12a682114b0b"
+  integrity sha1-O+FF5YJxxzylUnndhR8SpoIRSws=
 
 watchpack@^1.6.0:
   version "1.6.0"
