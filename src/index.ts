@@ -19,7 +19,7 @@ export const BaraRxDB = portion<any, RxDBContext, RxDBMold>({
     const db: Promise<RxDatabase> =
       rxdb ||
       RxDB.create({
-        name: BARA_RXDB,
+        name: BARA_RXDB.toLowerCase().replace('-', ''),
         adapter: 'react-native-sqlite',
         multiInstance: false,
         ...options,
