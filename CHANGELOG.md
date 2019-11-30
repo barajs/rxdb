@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/barajs/rxdb/compare/v1.0.2...v1.1.0) (2019-11-30)
+
+
+### Features
+
+* **adapter:** add idb for web ([08bd3b2](https://github.com/barajs/rxdb/commit/08bd3b25b6fbd825f26662f951774cf67e300014))
+
 ## [1.0.2](https://github.com/barajs/rxdb/compare/v1.0.1...v1.0.2) (2019-11-22)
 
 
