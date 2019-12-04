@@ -1,18 +1,7 @@
 import { portion, flow, popEvent } from '@barajs/core'
-
 import RxDB, { RxDatabase } from 'rxdb'
-import HttpPouch from 'pouchdb-adapter-http'
-import IndexedDB from 'pouchdb-adapter-idb'
-import * as SQLite from 'expo-sqlite'
-import SQLiteAdapterFactory from 'pouchdb-adapter-react-native-sqlite'
 
 import { RxDBContext, RxDBMold, BARA_RXDB } from './types'
-
-const SQLiteAdapter = SQLiteAdapterFactory(SQLite)
-
-RxDB.plugin(SQLiteAdapter)
-RxDB.plugin(HttpPouch)
-RxDB.plugin(IndexedDB)
 
 export const BaraRxDB = portion<any, RxDBContext, RxDBMold>({
   name: BARA_RXDB,
