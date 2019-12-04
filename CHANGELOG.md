@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/barajs/rxdb/compare/v1.1.0...v1.1.1) (2019-12-04)
+
+
+### Bug Fixes
+
+* **deps:** remove adapter plugins ([62ae0b9](https://github.com/barajs/rxdb/commit/62ae0b98ac70e521906470af477c0dbb91701b2f))
+
 # [1.1.0](https://github.com/barajs/rxdb/compare/v1.0.2...v1.1.0) (2019-11-30)
 
 
