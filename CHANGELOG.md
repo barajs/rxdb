@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/barajs/rxdb/compare/v1.1.1...v1.2.0) (2019-12-05)
+
+
+### Features
+
+* **formula:** add upsert method ([8144121](https://github.com/barajs/rxdb/commit/8144121999c929d6c7b17d782e9f870a13d7e5c7))
+
 ## [1.1.1](https://github.com/barajs/rxdb/compare/v1.1.0...v1.1.1) (2019-12-04)
 
 
