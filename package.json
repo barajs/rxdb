@@ -37,7 +37,7 @@
     "@semantic-release/npm": "7.0.5",
     "@types/lru-cache": "5.1.0",
     "@types/redux": "3.6.0",
-    "prettier": "2.0.4",
+    "prettier": "2.0.5",
     "semantic-release": "17.0.6",
     "ts-loader": "7.0.1",
     "ts-node-dev": "1.0.0-pre.44",
