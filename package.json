@@ -39,7 +39,7 @@
     "@types/redux": "3.6.0",
     "prettier": "2.0.5",
     "semantic-release": "17.0.7",
-    "ts-loader": "7.0.4",
+    "ts-loader": "7.0.5",
     "ts-node-dev": "1.0.0-pre.44",
     "typescript": "3.9.3",
     "webpack": "4.43.0",
