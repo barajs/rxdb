@@ -40,7 +40,7 @@
     "prettier": "2.0.5",
     "semantic-release": "17.0.8",
     "ts-loader": "7.0.5",
-    "ts-node-dev": "1.0.0-pre.45",
+    "ts-node-dev": "1.0.0-pre.47",
     "typescript": "3.9.5",
     "webpack": "4.43.0",
     "webpack-cli": "3.3.11"
