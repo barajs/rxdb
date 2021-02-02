@@ -25,7 +25,7 @@
     "precompile": "yarn format"
   },
   "dependencies": {
-    "@barajs/core": "3.0.0-alpha.429",
+    "@barajs/core": "3.0.0-alpha.430",
     "@barajs/formula": "3.0.0-alpha.470",
     "rxdb": "8.7.3"
   },
