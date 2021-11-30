@@ -27,7 +27,7 @@
   "dependencies": {
     "@barajs/core": "3.0.0-alpha.429",
     "@barajs/formula": "3.0.0-alpha.470",
-    "rxdb": "8.7.3"
+    "rxdb": "10.5.4"
   },
   "devDependencies": {
     "@semantic-release/changelog": "5.0.1",
