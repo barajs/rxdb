@@ -480,10 +480,10 @@
   resolved "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.7.tgz"
   integrity sha512-cxWFQVseBm6O9Gbw1IWb8r6OS4OhSt3hPZLkFApLjM8TEXROBuQGLAH2i2gZpcXdLBIrpXuTDhH7Vbm1iXmNGA==
 
-"@types/lru-cache@7.6.0":
-  version "7.6.0"
-  resolved "https://registry.npmjs.org/@types/lru-cache/-/lru-cache-7.6.0.tgz"
-  integrity sha512-9q2Ft/nq7a8XjNxFLz/+LxVdMd1P6dcf2ulLY1+zbURtdFG1nuVpQtEHkvd6rtpLFowYKwf5PXX3V52LYzHuEw==
+"@types/lru-cache@7.6.1":
+  version "7.6.1"
+  resolved "https://registry.npmjs.org/@types/lru-cache/-/lru-cache-7.6.1.tgz"
+  integrity sha512-69x+Dhrm2aShFkTqUuPgUXbKYwvq4FH/DVeeQH7MBfTjbKjPX51NGLERxVV1vf33N71dzLvXCko4OLqRvsq53Q==
 
 "@types/mime@*":
   version "2.0.1"
