@@ -39,10 +39,10 @@
   dependencies:
     xstream "11.11.0"
 
-"@barajs/formula@3.0.0-alpha.470":
-  version "3.0.0-alpha.470"
-  resolved "https://registry.npmjs.org/@barajs/formula/-/formula-3.0.0-alpha.470.tgz"
-  integrity sha512-Fqeo0FCKawnkE7CJJINVBLLrgjAUH3aO+D3r1S2M0azErH806QsRUNkzySE3IhT99pHm5YIC30EfhnZueiqSmQ==
+"@barajs/formula@3.0.0-alpha.482":
+  version "3.0.0-alpha.482"
+  resolved "https://registry.yarnpkg.com/@barajs/formula/-/formula-3.0.0-alpha.482.tgz#20cbc681a3b5b1fcc68c34c66f5d4ffc1e98c68e"
+  integrity sha512-Ws2+Vx1r+H3QPoNvAFvxnwXAwfN6n6w5MQ614Qw8EC09oxZxIycN9HxEeuXKXbd348wabTVSCTosaVNpvm6PJw==
 
 "@colors/colors@1.5.0":
   version "1.5.0"
