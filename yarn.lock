@@ -600,10 +600,10 @@
   resolved "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.7.tgz"
   integrity sha512-cxWFQVseBm6O9Gbw1IWb8r6OS4OhSt3hPZLkFApLjM8TEXROBuQGLAH2i2gZpcXdLBIrpXuTDhH7Vbm1iXmNGA==
 
-"@types/lru-cache@7.10.9":
-  version "7.10.9"
-  resolved "https://registry.npmjs.org/@types/lru-cache/-/lru-cache-7.10.9.tgz"
-  integrity sha512-wrwgkdJ0xr8AbzKhVaRI8SXZN9saapPwwLoydBEr4HqMZET1LUTi1gdoaj82XmRJ9atqN7MtB0aja29iiK+7ag==
+"@types/lru-cache@7.10.10":
+  version "7.10.10"
+  resolved "https://registry.npmjs.org/@types/lru-cache/-/lru-cache-7.10.10.tgz"
+  integrity sha512-nEpVRPWW9EBmx2SCfNn3ClYxPL7IktPX12HhIoSc/H5mMjdeW3+YsXIpseLQ2xF35+OcpwKQbEUw5VtqE4PDNA==
   dependencies:
     lru-cache "*"
 
