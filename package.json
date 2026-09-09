@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@barajs/core": "3.0.0-alpha.429",
-    "@barajs/formula": "3.0.0-alpha.470",
+    "@barajs/formula": "3.0.0-alpha.482",
     "rxdb": "8.7.3"
   },
   "devDependencies": {
